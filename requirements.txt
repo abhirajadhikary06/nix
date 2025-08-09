@@ -4,3 +4,5 @@ python-dotenv
 requests
 werkzeug
 markdown
+gunicorn
+flask-cors
